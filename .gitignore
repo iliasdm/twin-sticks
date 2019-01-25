@@ -5,7 +5,9 @@ Temp/
 Obj/
 UnityGenerated/
 Library/
+Standard Assets/
 Assets/AssetStoreTools*
+.vs/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
